@@ -1,0 +1,44 @@
+* {
+	background-color:;
+	margin: 0px;
+	padding: 0px;
+	font-family: calibri;
+}
+
+.navbar-nav {
+	font-size: 20px;
+}
+
+.navbar-nav li a {
+	float: right;
+	text-align: left;
+}
+
+.mainimage {
+	width: 60%;
+}
+
+.jumbotron {
+	background-color: ;
+}
+
+.navbar-nav li {
+	padding: 0 15px;
+}
+
+
+#mainintro {
+	font-size: 30px;
+	margin-top: 30%;
+}
+
+#aboutme {
+	margin-top: 5%;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+#projects {
+	display: flex;
+}
